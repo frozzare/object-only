@@ -25,5 +25,5 @@ console.log(objectOnly(obj, ['bar', 'foo.bar']));
 ```
 
 ## License
-Copyright (c) 2015 Fredrik Forsmo  
-Licensed under the MIT license.
+
+MIT © [Fredrik Forsmo](https://github.com/frozzare)
